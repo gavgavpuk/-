@@ -9,3 +9,8 @@ elif e == 2:
     y = int(input ("Введите значение: "))
     d = x - y
     print("Гена на:", d)
+elif e == 3: 
+    p= int(input ("Введите значение:"))
+    w= int(input ("Введите значение:"))
+    k= p*w
+    print("Получилось:", k)
